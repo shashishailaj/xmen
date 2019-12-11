@@ -291,6 +291,9 @@ paket-files/
 # FAKE - F# Make
 .fake/
 
+# Doxygen output
+docs/html/
+
 # JetBrains Rider
 .idea/
 *.sln.iml
